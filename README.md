@@ -1,14 +1,18 @@
 # E-Commerce Website Using Java 
-### E-Commerce
-<span style="color:blue">**This Website is built for following purpose:-**</span>
-- For buying product online
-- Maintaining sale history
-- Adding and managing products
-- User Friendly
-- For Implemention of Generic Servlets in Java
-- This is a Mini-project developed using Java, Jdbc, Bootstrap. 
+# E-Commerce
+Purpose of the website :- 
+1. Global Market Access:* Reach customers worldwide, breaking geographical boundaries.
+2. 24/7 Availability: Operate round the clock, enabling sales at any time.
+3. Convenient Shopping: Offer a seamless shopping experience, anytime and anywhere.
+4. Cost-Effective: Reduce overheads, making it economical for businesses.
+5. Product Information: Provide detailed product data for informed decision-making.
+6. Secure Transactions: Ensure safe online payments, enhancing customer trust.
+7. Customer Support: Offer prompt assistance, addressing queries and concerns.
+8. Data Analytics: Gather and analyze customer data for personalized experiences.
+9. Promotions: Run targeted promotions, boosting sales and customer engagement.
+10.Inventory Management: Efficiently handle stock, reducing wastage and optimizing supply chains.
 
-<span style="color:blue">**Admin Have Following Access for this E-Commerce website:-**</span>
+Admin Have Following Access for this E-Commerce website:-
 - Add New Products
 - Add New Category
 - View Available Products
@@ -16,7 +20,7 @@
 - View Category
 - Remove Products
 
-<span style="color:blue">**Users Have Following Access for this E-Commerce website:-**</span>
+Users Have Following Access for this E-Commerce website:-
 - Create New Account or Register
 - Login
 - View Available Products
@@ -25,7 +29,7 @@
 - Add To cart
 - Go to Checkout Page
 
-### Technologies used:-
+ Technologies used:-
 1. Front-End Development:
 - Html
 - Css
@@ -45,9 +49,9 @@
 
 Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
 
-#### "Suggestions and project Improvements are Invited!"
+ "Suggestions and project Improvements are Invited!"
 
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Creator<br/>
-                                                                                                         <b>Harshit Shakya</b>
+Thanks a lot.
+                                                                                                          Project Creator
+                                                                                                          Vishal Kushwah
                                                                                                          
