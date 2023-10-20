@@ -1,7 +1,7 @@
 # E-Commerce Website Using Java 
 # E-Commerce
 Purpose of the website :- 
-1. Global Market Access:* Reach customers worldwide, breaking geographical boundaries.
+1. Global Market Access: Reach customers worldwide, breaking geographical boundaries.
 2. 24/7 Availability: Operate round the clock, enabling sales at any time.
 3. Convenient Shopping: Offer a seamless shopping experience, anytime and anywhere.
 4. Cost-Effective: Reduce overheads, making it economical for businesses.
