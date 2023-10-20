@@ -51,18 +51,3 @@ Note:- This is a basic Project so we have not think about the security and we ha
                                                                                                         Project Creator<br/>
                                                                                                          <b>Harshit Shakya</b>
                                                                                                          
-
-<h1>This is Admin Page</h1>
-<img src="project images/admin page.png">
-
-<h1>This is Home Page</h1>
-<img src="project images/home page.png">
-
-<h1>This is Login Page</h1>
-<img src="project images/login page.png">
-
-<h1>This is Register Page</h1>
-<img src="project images/register page.png">
-
-<h1>This is Checkout Page</h1>
-<img src="project images/checkout page.png">
